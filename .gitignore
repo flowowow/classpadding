@@ -1,0 +1,27 @@
+# Google Drive Desktop Files
+*.desktop
+
+# Google Drive Sync Files
+desktop.ini
+.DS_Store
+
+# Temporary Files
+*.tmp
+*.temp
+*~
+
+# Log Files
+*.log
+
+# IDE Files
+.vscode/
+.idea/
+*.sublime-*
+
+# OS Generated Files
+Thumbs.db
+.directory
+
+# Backup Files
+*.bak
+*.backup
